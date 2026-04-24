@@ -47,11 +47,8 @@ so no work is ever lost between sessions.
 
 | # | Name | Student ID |
 |---|------|-----------|
-| 1 | Muhammad [Last Name] | [Your ID] |
-| 2 | [Member 2 Full Name] | [Member 2 ID] |
-| 3 | [Member 3 Full Name] | [Member 3 ID] |
-
-> ⚠️ Replace the placeholders above with your actual names and IDs before submission.
+| 1 | Muhammad Siddique | 25K-0610 |
+| 2 | Shaikh Muhammad Sameer | 25K-0729 |
 
 ---
 
